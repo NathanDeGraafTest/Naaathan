@@ -1,0 +1,20 @@
+{
+  "name": "Naaathan",
+  "version": "0.0.0",
+  "description": "asdf",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "repository": {},
+  "authors": [
+    "asdf"
+  ],
+  "license": "MIT",
+  "bin": {},
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "3.5.3"
+  }
+}
